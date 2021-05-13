@@ -11,6 +11,7 @@ To return from the search bar to your shelves just press the button with the arr
 
 ## Set up and start
 
+* Open the zip file and move out the home folder to a local directory
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
